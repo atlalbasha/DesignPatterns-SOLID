@@ -1,0 +1,16 @@
+/Users/macbook/Desktop/OnlineShop/OnlineShop/obj/Debug/net5.0/OnlineShop.csproj.AssemblyReference.cache
+/Users/macbook/Desktop/OnlineShop/OnlineShop/obj/Debug/net5.0/OnlineShop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/OnlineShop/OnlineShop/obj/Debug/net5.0/OnlineShop.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/OnlineShop/OnlineShop/obj/Debug/net5.0/OnlineShop.AssemblyInfo.cs
+/Users/macbook/Desktop/OnlineShop/OnlineShop/obj/Debug/net5.0/OnlineShop.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/OnlineShop/OnlineShop/bin/Debug/net5.0/OnlineShop
+/Users/macbook/Desktop/OnlineShop/OnlineShop/bin/Debug/net5.0/OnlineShop.deps.json
+/Users/macbook/Desktop/OnlineShop/OnlineShop/bin/Debug/net5.0/OnlineShop.runtimeconfig.json
+/Users/macbook/Desktop/OnlineShop/OnlineShop/bin/Debug/net5.0/OnlineShop.runtimeconfig.dev.json
+/Users/macbook/Desktop/OnlineShop/OnlineShop/bin/Debug/net5.0/OnlineShop.dll
+/Users/macbook/Desktop/OnlineShop/OnlineShop/bin/Debug/net5.0/ref/OnlineShop.dll
+/Users/macbook/Desktop/OnlineShop/OnlineShop/bin/Debug/net5.0/OnlineShop.pdb
+/Users/macbook/Desktop/OnlineShop/OnlineShop/obj/Debug/net5.0/OnlineShop.dll
+/Users/macbook/Desktop/OnlineShop/OnlineShop/obj/Debug/net5.0/ref/OnlineShop.dll
+/Users/macbook/Desktop/OnlineShop/OnlineShop/obj/Debug/net5.0/OnlineShop.pdb
+/Users/macbook/Desktop/OnlineShop/OnlineShop/obj/Debug/net5.0/OnlineShop.genruntimeconfig.cache
